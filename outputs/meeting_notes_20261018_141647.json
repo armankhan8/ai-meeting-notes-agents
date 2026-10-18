@@ -1,0 +1,39 @@
+{
+  "title": "Project Update Meeting",
+  "one_line_summary": "Team assigned tasks and set deadlines for the chat UI, API testing, and deployment while addressing a login issue blocker.",
+  "summary_points": [
+    "Arman to complete new chat UI by Friday.",
+    "Rahul to test API and report bugs by Saturday.",
+    "Deployment of first version scheduled for Monday.",
+    "Login issue identified as a blocker.",
+    "Priya to investigate login issue today."
+  ],
+  "decisions": [
+    "Deploy the first version on Monday."
+  ],
+  "action_items": [
+    {
+      "task": "Finish the new chat UI",
+      "owner": "Arman",
+      "due_date": "Friday",
+      "priority": "Medium"
+    },
+    {
+      "task": "Test the API and report any bugs",
+      "owner": "Rahul",
+      "due_date": "Saturday",
+      "priority": "Medium"
+    },
+    {
+      "task": "Check the login issue",
+      "owner": "Priya",
+      "due_date": "Today",
+      "priority": "High"
+    }
+  ],
+  "key_points": [
+    "Login issue is a blocker for deployment."
+  ],
+  "next_meeting_focus": "Not mentioned",
+  "transcript": "Okay, quick project update. Arman will finish the new chat UI by Friday. Rahul will test the API and report any bugs by Saturday. We agreed to deploy the first version on Monday. One blocker is the login issue, so Priya will check it today. That's all for this meeting."
+}
